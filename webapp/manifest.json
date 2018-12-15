@@ -85,7 +85,7 @@
 				},
 				"sap.ui.generic.app": {
 					"lazy": false
-				}				
+				}
 			}
 		},
 		"contentDensities": {
@@ -214,5 +214,9 @@
 			"F0866"
 		],
 		"archeType": "transactional"
+	},
+	"sap.platform.hcp": {
+		"uri": "webapp",
+		"_version": "1.1.0"
 	}
 }
